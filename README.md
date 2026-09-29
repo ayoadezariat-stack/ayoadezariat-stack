@@ -1,4 +1,4 @@
-Hi, I’m Zariat Ayoade 👋
+Hi, I’m Zariat Ayoade
 
 I am an emerging Data Analyst with a background in Literature, research, journalism, and digital communication. I am developing practical skills in data analysis and visualization, with experience working on projects using Excel, Python, and Power BI.
 
